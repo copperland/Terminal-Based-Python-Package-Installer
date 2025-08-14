@@ -1,4 +1,4 @@
-Terminal Tabanlı Python Paket Yükleyici
+#Terminal Tabanlı Python Paket Yükleyici
 
 Bu script, seçtiğiniz `pip` veya `pip3` komutuyla belirlenmiş paket listesini **etkileşimli** olarak kurar.  
 Kurulum esnasında renkli çıktılar, adım göstergesi ve hata yakalama içerir.
