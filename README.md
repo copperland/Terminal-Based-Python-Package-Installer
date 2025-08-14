@@ -27,7 +27,7 @@ Kurulum esnasında renkli çıktılar, adım göstergesi ve hata yakalama içeri
 ## Kurulum
 ```bash
 # Depoyu klonlayın
-git clone https://github.com/<KULLANICI_ADINIZ>/<REPO_ADI>.git
+git clone https://github.com/copperland/Terminal-Based-Python-Package-Installer.git
 cd <REPO_ADI>
 
 # (Öneri) Sanal ortam oluşturun
